@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack web development<br>🔭 I’m currently working on MERN stack web development<br>👯 I’m looking to collaborate on open source project<br>👯 I’m looking to collaborate with a team to work on efficient, responsive web development<br>🤝 I’m looking for help with  design and data structure<br>🌱 I’m currently learning more about react, MERN stack and data structure<br>🌱 I’m currently learning about web sockets <br>💬 Ask me about HTML, CSS, node.js, java script and MERN stack development<br>⚡ Fun fact coding made me night owl
+🔭 I’m currently working on MERN stack web development<br>👯 I’m looking to collaborate on open source project<br>👯 I’m looking to collaborate with a team to work on efficient, responsive web development<br>🤝 <br>🌱 I’m currently learning more about react, MERN stack and data structure<br>🌱  <br>💬 Ask me about HTML, CSS, node.js, java script and MERN stack development<br>⚡ 
 
 
 ## 🌐 Socials:
